@@ -1,0 +1,111 @@
+Datum      ; Player 1 ; Player 2 ; Farbe 1   ;  Tore 1 ; Tore 2 ; Direkt 1 ; Direkt 2 ; Anmerkung
+-----------;----------;----------;-----------;---------;--------;----------;----------;----------
+
+2022-??-?? ; Rafael   ; Vincent  ;           ;  10     ;  3     ;          ;          ;
+2022-??-?? ; Rafael   ; Vincent  ;           ;  10     ;  3     ;          ;          ;
+2022-??-?? ; Rafael   ; Vincent  ;           ;   9     ; 10     ;          ;          ;
+2022-??-?? ; Rafael   ; Vincent  ;           ;  10     ;  6     ;          ;          ;
+2022-??-?? ; Rafael   ; Vincent  ;           ;  10     ;  9     ;          ;          ;
+2022-??-?? ; Rafael   ; Vincent  ;           ;  10     ;  2     ;          ;          ;
+2022-??-?? ; Rafael   ; Vincent  ;           ;  10     ;  8     ;          ;          ;
+
+2022-02-18 ; Rafael   ; Vincent  ;           ;  10     ;  4     ;          ;          ;
+2022-02-18 ; Rafael   ; Vincent  ;           ;   1     ; 10     ;          ;          ;
+2022-02-18 ; Rafael   ; Vincent  ;           ;   9     ; 10     ;          ;          ;
+2022-02-18 ; Rafael   ; Vincent  ;           ;   8     ; 10     ;          ;          ;
+2022-02-18 ; Rafael   ; Vincent  ;           ;   3     ; 10     ;          ;          ;
+2022-02-18 ; Rafael   ; Vincent  ;           ;   9     ; 10     ;          ;          ;
+2022-02-18 ; Rafael   ; Vincent  ;           ;   7     ; 10     ;          ;          ;
+2022-02-18 ; Rafael   ; Vincent  ;           ;   7     ; 10     ;          ;          ;
+2022-02-18 ; Rafael   ; Vincent  ;           ;  10     ;  7     ;          ;          ;
+
+2022-02-25 ; Rafael   ; Vincent  ;           ;  10     ;  8     ;          ;          ;
+2022-02-25 ; Rafael   ; Vincent  ;           ;   3     ; 10     ;          ;          ;
+2022-02-25 ; Rafael   ; Vincent  ;           ;   7     ; 10     ;          ;          ;
+2022-02-25 ; Rafael   ; Vincent  ;           ;  10     ;  8     ;          ;          ;
+
+2022-03-22 ; Rafael   ; Vincent  ;           ;   7     ; 10     ;          ;          ;
+2022-03-22 ; Rafael   ; Vincent  ;           ;  10     ;  5     ;          ;          ;
+2022-03-22 ; Rafael   ; Vincent  ;           ;   6     ; 10     ;          ;          ;
+2022-03-22 ; Rafael   ; Vincent  ;           ;  10     ;  7     ;          ;          ;
+2022-03-22 ; Rafael   ; Vincent  ;           ;  10     ;  6     ;  0       ; 5        ; Neu: direkte Tore extra
+
+2022-03-25 ; Rafael   ; Vincent  ;           ;   5     ; 10     ;  2       ; 0        ;
+2022-03-25 ; Rafael   ; Vincent  ;           ;   4     ; 10     ;  1       ; 1        ;
+2022-03-25 ; Rafael   ; Vincent  ;           ;   7     ; 10     ;  0       ; 2        ;
+2022-03-25 ; Rafael   ; Vincent  ;           ;   5     ; 10     ;  0       ; 0        ;
+2022-03-25 ; Rafael   ; Vincent  ;           ;   4     ; 10     ;  1       ; 1        ;
+2022-03-25 ; Rafael   ; Vincent  ;           ;   6     ; 10     ;  2       ; 2        ;
+
+2022-04-10 ; Rafael   ; Vincent  ;           ;   5     ; 10     ;  0       ; 0        ;
+2022-04-10 ; Rafael   ; Vincent  ;           ;   7     ; 10     ;  0       ; 2        ;
+2022-04-10 ; Rafael   ; Vincent  ;           ;   9     ; 10     ;  2       ; 2        ;
+
+2022-04-13 ; Rafael   ; Vincent  ;           ;   9     ; 10     ;  1       ; 0        ;
+2022-04-13 ; Rafael   ; Vincent  ;           ;   5     ; 10     ;  0       ; 0        ;
+2022-04-13 ; Rafael   ; Vincent  ;           ;   1     ; 10     ;  1       ; 0        ;
+2022-04-13 ; Rafael   ; Vincent  ;           ;   8     ; 10     ;  3       ; 0        ;
+
+2022-05-07 ; Rafael   ; Vincent  ;           ;   9     ; 10     ;  0       ; 2        ;
+2022-05-07 ; Rafael   ; Vincent  ;           ;  10     ;  5     ;  1       ; 0        ;
+2022-05-07 ; Rafael   ; Vincent  ;           ;  10     ;  6     ;  0       ; 1        ;
+
+2022-05-13 ; Rafael   ; Vincent  ;           ;  10     ;  7     ;  1       ; 2        ;
+2022-05-13 ; Rafael   ; Vincent  ;           ;   5     ; 10     ;  0       ; 0        ;
+2022-05-13 ; Rafael   ; Vincent  ;           ;  10     ;  5     ;  3       ; 2        ;
+2022-05-13 ; Rafael   ; Vincent  ;           ;   3     ; 10     ;  3       ; 0        ;
+2022-05-13 ; Rafael   ; Vincent  ;           ;   4     ; 10     ;  4       ; 3        ;
+
+2022-05-15 ; Rafael   ; Vincent  ;           ;  10     ;  7     ;  0       ; 1        ;
+2022-05-15 ; Rafael   ; Vincent  ;           ;   4     ; 10     ;  0       ; 1        ;
+2022-05-15 ; Rafael   ; Vincent  ;           ;   5     ; 10     ;  0       ; 0        ;
+2022-05-15 ; Rafael   ; Vincent  ;           ;  10     ;  5     ;  1       ; 0        ;
+2022-05-15 ; Rafael   ; Vincent  ;           ;   9     ; 10     ;  2       ; 3        ;
+2022-05-15 ; Rafael   ; Vincent  ;           ;  10     ;  5     ;  0       ; 0        ; freihaendig
+2022-05-15 ; Rafael   ; Vincent  ;           ;   9     ; 10     ;  1       ; 1        ;
+
+2022-05-25 ; Rafael   ; Vincent  ;           ;  10     ;  3     ;  0       ; 0        ;
+2022-05-25 ; Rafael   ; Vincent  ;           ;   9     ; 10     ;  1       ; 1        ;
+2022-05-25 ; Rafael   ; Vincent  ;           ;   7     ; 10     ;  0       ; 2        ;
+2022-05-25 ; Rafael   ; Vincent  ;           ;  10     ;  7     ;  2       ; 1        ;
+
+2022-07-24 ; Rafael   ; Vincent  ;           ;   9     ; 10     ;  9       ; 2        ;
+2022-07-24 ; Rafael   ; Vincent  ;           ;   6     ; 10     ;  1       ; 0        ;
+2022-07-24 ; Rafael   ; Vincent  ;           ;  10     ;  1     ;  2       ; 0        ;
+
+2022-10-17 ; Rafael   ; Vincent  ;           ;   9     ; 10     ;  0       ; 0        ;
+2022-10-17 ; Rafael   ; Vincent  ;           ;   4     ; 10     ;  1       ; 2        ;
+
+2022-10-18 ; Rafael   ; Vincent  ;           ;  10     ;  8     ;  2       ; 2        ;
+
+2022-12-17 ; Rafael   ; Vincent  ;           ;   8     ; 10     ;  0       ; 0        ;
+2022-12-17 ; Rafael   ; Vincent  ;           ;  10     ;  8     ;  0       ; 0        ;
+
+2022-12-18 ; Rafael   ; Vincent  ;           ;   8     ; 10     ;  0       ; 1        ;
+2022-12-18 ; Rafael   ; Vincent  ;           ;  10     ;  9     ;  2       ; 0        ;
+2022-12-18 ; Rafael   ; Vincent  ; rot       ;  10     ;  5     ;  1       ; 3        ;
+
+2023-01-23 ; Rafael   ; Vincent  ; rot       ;   4     ; 10     ;  0       ; 3        ;
+
+2023-02-05 ; Rafael   ; Vincent  ; blau      ;   9     ; 10     ;  0       ; 3        ;
+2023-02-05 ; Rafael   ; Vincent  ; rot       ;   6     ; 10     ;  0       ; 1        ;
+
+2023-02-10 ; Rafael   ; Vincent  ; blau      ;   9     ; 10     ;  0       ; 1        ;
+2023-02-10 ; Rafael   ; Vincent  ; rot       ;  10     ; 9      ;  1       ; 2        ;
+
+2023-03-11 ; Rafael   ; Vincent  ;           ;  10     ;  6     ;  3       ; 0        ;
+2023-03-11 ; Rafael   ; Vincent  ;           ;   4     ; 10     ;  0       ; 0        ;
+2023-03-11 ; Rafael   ; Vincent  ;           ;   5     ; 10     ;  0       ; 0        ;
+2023-03-11 ; Rafael   ; Vincent  ;           ;   4     ; 10     ;  0       ; 0        ;
+2023-03-11 ; Rafael   ; Vincent  ;           ;   9     ; 10     ;  3       ; 0        ; 
+
+2023-04-09 ; Rafael   ; Vincent  ;           ;  10     ;  2     ;  0       ; 0        ;
+
+2023-04-22 ; Rafael   ; Vincent  ; blau      ;   8     ; 10     ;  0       ; 0        ; Roter Verteidiger kaputt
+2023-04-22 ; Rafael   ; Vincent  ; rot       ;   7     ; 10     ;  0       ; 1        ; Roter Verteidiger kaputt
+
+2023-04-28 ; Rafael   ; Vincent  ; blau      ;   9     ; 10     ;  0       ; 0        ; 
+2023-04-28 ; Rafael   ; Vincent  ; rot       ;  10     ;  1     ;  0       ; 0        ; 
+
+-----------;----------;----------;-----------;---------;--------;----------;----------;----------
+Datum      ; Player 1 ; Player 2 ; Farbe 1   ;  Tore 1 ; Tore 2 ; Direkt 1 ; Direkt 2 ; Anmerkung
