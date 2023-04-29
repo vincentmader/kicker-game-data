@@ -1,0 +1,19 @@
+white  ; black ; Anmerkung
+-------;-------;--------------------------------------------
+d4     ; d5    ; ^ der Strich heisst: wir haben "nachgebaut"
+c4     ; Nf6   ;   (zwischen Strichen immer blind)
+cxd5   ; Nxd5  ; 
+Nf3    ; Nc6   ;  
+e4     ; Nf6   ;
+d5     ; Na5   ;  
+b4     ; e6    ;
+bxa5   ; exd5  ;
+e5     ; Nd7   ;
+Nc3    ; c6    ; 
+-------;-------;---------------------------------------------
+Bg5    ; f6    ; 
+exf6   ; Bb4   ;
+fxg7   ; f6    ; f6 geht nicht!
+gxh8Q+ ; Nf8   ; <- Vincent resigniert
+Bd2    ; Qa5   ;
+-------;-------;---------------------------------------------

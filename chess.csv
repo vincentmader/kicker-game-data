@@ -13,5 +13,4 @@ Datum      ; Player 1 ; Player 2 ; Farbe 1; Sieger ; Zeit   ; Outcome ; Anmerkun
            ; Rafael   ; Vincent  ; white  ; 1      ; 10+0   ; Matt    ;               
 2023-04-21 ; Rafael   ; Vincent  ; white  ; 1      ; 15+2   ; Matt    ;               
 2023-04-21 ; Rafael   ; Vincent  ; black  ; 1      ; 15+2   ; Matt    ;               
-2023-04-28 ; Rafael   ; Vincent  ;        ;        ;        ;         ; Blind + ...
-2023-04-28 ; Rafael   ; Vincent  ;        ;        ;        ;         ;
+2023-04-28 ; Rafael   ; Vincent  ; white  ; 1      ; inf.   ;         ; Blind, erst 10, dann 5
