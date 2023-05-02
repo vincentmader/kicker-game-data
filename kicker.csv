@@ -93,6 +93,9 @@ Datum      ; Player 1 ; Player 2 ; Farbe 1 ;  Tore 1 ; Tore 2 ; Direkt 1 ; Direk
 2023-02-10 ; Rafael   ; Vincent  ; blau    ;   9     ; 10     ;  0       ; 1        ;
 2023-02-10 ; Rafael   ; Vincent  ; rot     ;  10     ; 9      ;  1       ; 2        ;
 
+2023-02-10 ; Mathis   ; Vincent  ; rot     ;   3     ; 10     ;          ;          ;
+2023-02-10 ; Mathis   ; Vincent  ; blau    ;   2     ; 10     ;          ;          ;
+
 2023-03-11 ; Rafael   ; Vincent  ;         ;  10     ;  6     ;  3       ; 0        ;
 2023-03-11 ; Rafael   ; Vincent  ;         ;   4     ; 10     ;  0       ; 0        ;
 2023-03-11 ; Rafael   ; Vincent  ;         ;   5     ; 10     ;  0       ; 0        ;
@@ -106,6 +109,8 @@ Datum      ; Player 1 ; Player 2 ; Farbe 1 ;  Tore 1 ; Tore 2 ; Direkt 1 ; Direk
 
 2023-04-28 ; Rafael   ; Vincent  ; blau    ;   9     ; 10     ;  0       ; 0        ; 
 2023-04-28 ; Rafael   ; Vincent  ; rot     ;  10     ;  1     ;  0       ; 0        ; 
+
+2023-05-01 ; Mathis   ; Vincent  ; rot     ;  10     ;  8     ;          ;          ; Vincent's Hand verletzt nach Sturz, auf Maiwanderung (ausserdem: Vincent dicht, nach Maiwanderung)
 
 -----------;----------;----------;---------;---------;--------;----------;----------;----------
 Datum      ; Player 1 ; Player 2 ; Farbe 1 ;  Tore 1 ; Tore 2 ; Direkt 1 ; Direkt 2 ; Anmerkung
