@@ -1,0 +1,13 @@
+white  ; black ; Anmerkung
+-------;-------;--------------------------------------------
+d4     ; Nf6   ; ^ der Strich heisst: wir haben "nachgebaut"
+g5     ; d5    ;   (zwischen Strichen immer blind)
+Nc3    ; e6    ; 
+g3     ; c5    ;  
+dxc5   ; Bxc5  ;
+Bg2    ; h6    ;  
+Bxf6   ; Qxf6  ;
+e4     ; Qxf2  ; Matt
+-------;-------;---------------------------------------------
+
+1. d4 Nf6 2. Bg5 d5 3. Nc3 e6 4. g3 c5 5. dxc5 Bxc5 6. Bg2 h6 7. Bxf6 Qxf6 8. e4 Qxf2#
