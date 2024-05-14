@@ -127,5 +127,9 @@ Datum      ; Player 1 ; Player 2  ; Farbe 1 ;  Tore 1 ; Tore 2 ; Direkt 1 ; Dire
 2024-05-02 ; Rafael & ; Vincent & ; rot     ; 6       ; 10     ; N/A      ; N/A      ;
            ; Steffi   ; Elvin     ; 
 
+2024-05-14 ; Rafael   ; Vincent   ; blau    ; 10      ; 9      ; 0        ; 2        ;
+2024-05-14 ; Rafael   ; Vincent   ; rot     ; 8       ; 10     ; 0        ; 0        ;
+2024-05-14 ; Rafael   ; Vincent   ; blau    ; 10      ; 6      ; 0        ; 0        ;
+
 -----------;----------;-----------;---------;---------;--------;----------;----------;----------
 Datum      ; Player 1 ; Player 2  ; Farbe 1 ;  Tore 1 ; Tore 2 ; Direkt 1 ; Direkt 2 ; Anmerkung
